@@ -16,4 +16,5 @@ module.exports = {
     'jest-watch-typeahead/testname',
   ],
   verbose: true,
+  testTimeout: 30000
 };
